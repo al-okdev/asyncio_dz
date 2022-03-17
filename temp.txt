@@ -1,0 +1,5 @@
+ДЗ - https://github.com/netology-code/py-homeworks-web/tree/new/2.2-asyncio
+API - https://swapi.dev/documentation#people
+Примеры - https://github.com/al-okdev/asyncq_postgre_example
+
+БД: asyncio_dz
